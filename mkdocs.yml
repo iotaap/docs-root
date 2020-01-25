@@ -1,6 +1,7 @@
 # Project information
 site_name: 'IoTaaP Documentation'
 site_description: 'IoTaaP Documentation'
+repo_url: 'https://github.com/iotaap/docs-root'
 nav:
   - Home: index.md
         
