@@ -9,11 +9,11 @@ IoTaaP Console or other features and products that come under IoTaaP.
 
 [**IoTaaP Tutorials**](https://docs.iotaap.io/iotaap-tutorials/)
 
-## IoTaaP Library
+## IoTaaP Core Library
 
-IoTaaP Library speeds your development by providing you simple to use functions for all IoTaaP board features.
+IoTaaP Core Library speeds your development by providing you simple to use functions for all IoTaaP board features.
 
-[**IoTaaP Library**](https://docs.iotaap.io/iotaap-library/)
+[**IoTaaP Core Library**](https://docs.iotaap.io/iotaap-core/)
 
 ## IoTaaP Hardware API
 
