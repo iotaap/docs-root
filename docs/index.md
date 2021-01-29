@@ -2,6 +2,12 @@
 
 IoTaaP documentation is separated in a few categories, regarding your development stage you can access each of them separately.
 
+## IoTaaP OS Documentation
+
+IoTaaP OS is a unique system built on top of FreeRTOS for ESP32 SoC which provides everything you need to successfully develop, deploy and manage your IoT devices.
+
+[**IoTaaP OS Documentation**](https://docs.iotaap.io/docs-iotaap-os/)
+
 ## IoTaaP Tutorials
 
 IoTaaP Tutorials is the set of detailed instructions on how to develop or use every aspect of the development boards, shields,
